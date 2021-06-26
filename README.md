@@ -28,7 +28,7 @@ A a customer, I would like to;
 6. The javascript code uses the correct syntax of camel case naming of variables. I.e var myVariable = "stores something"; instead of var my_var = "stores something", or, var MyVar = "stores something" , or,  var my-Var = "stores something"
 
 #### **REQUIREMENTS**
-## **To recreate a landing page for a fictional studio as shown below.**
+## **PIZZA PLACE WEB APP.**
 1. Determine the prices for each pizza size.
 2. Each pizza topping should have a set value depending on the size of the pizza.
 3. Determine the cost for the crust
@@ -41,13 +41,13 @@ A a customer, I would like to;
 To view the webpage, open the Github Pages link provided below on the README.
 
 Here is a systematic setup of how to template the Website
-* Step 1 : Clone this repository **`git clone https://github.com/tailorv/delanistudiomockup.git`**,or downloading a ZIP file of the code.
+* Step 1 : Clone this repository **`git clone https://github.com/tailorv/pizzashop.git`**,or downloading a ZIP file of the code.
 * Step 2 : The repository, if downloaded as a .zip file will need to be extracted o your preferred location and opened
 * Step 3 : Open the index.html file to view the webpage on your preferred browser
 
 ## Github Pages link
 
-You can view the live webpage by following this link https://tailorv.github.io/delanistudiomockup/
+You can view the live webpage by following this link https://tailorv.github.io/pizzashop/
 
 
 

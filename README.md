@@ -18,12 +18,23 @@ A a customer, I would like to;
 
 ![USER INTERFACE](images/homepage.png) (USER INTERFACE)
 
-#### **LANGUAGES**
-1. HTML
-2. CSS
-3. Javascript
-4. Bootstrap
-5. jQuery
+
+
+Determine the prices for each pizza size.
+Each pizza topping should have a set value depending on the size of the pizza.
+Determine the cost for the crust
+The total cost of a pizza should constitute, the crust, topping(s) and size of the pizza.
+On checkout, the application displays the orders’ summary together with the total amount charged. For example, if the customer has made more than one pizza order, on checkout the application displays a summary of all the orders he/she has made and the total amount to pay for all his/her orders.
+Project Objectives
+
+
+#### **PROJECT OBJECTIVES**
+1. The project code uses constructors in Javascript.
+2. The project makes use of prototypes in Javascript.
+3. The project implements one or more Javascript functions.
+4. The project separates the business logic code from the UI logic code.
+5. The web app uses bootstrap and media queries to make it fully responsive.
+6. The javascript code uses the correct syntax of camel case naming of variables. I.e var myVariable = "stores something"; instead of var my_var = "stores something", or, var MyVar = "stores something" , or,  var my-Var = "stores something"
 
 #### **FEATURES / OBJECTIVES**
 ## **To recreate a landing page for a fictional studio as shown below.**

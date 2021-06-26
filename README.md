@@ -10,7 +10,7 @@ I created a custom cursor effect by adding Delani logo as my cursor.
 The cursor has track motion effect that eneble the website to have a more interactive feel.
 
 
-![USER INTERFACE](images/screenshot.png) (USER INTERFACE)
+![USER INTERFACE](images/homepage.png) (USER INTERFACE)
 
 #### **LANGUAGES**
 1. HTML

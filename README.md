@@ -1,4 +1,4 @@
-### **DELANI STUDIO**
+### **MWESH PIZZA HUT**
 # **Author - Maxwell Munene**
 _This  project features a PIZZA WEB APP CALLED "MWESH PIZZA HUT"._
 

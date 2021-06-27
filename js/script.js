@@ -8,7 +8,7 @@ function Pizza(pizza, size, crust, toppings) {
 
 var priceSize, priceCrust, priceTopping;
 
-//calculate pizza price
+//calculate pizza prices
 var price = function(pizzaSize, pizzaCrust, pizzaTopping) {
     switch (pizzaSize) {
         case "":

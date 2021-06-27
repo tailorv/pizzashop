@@ -1,161 +1,130 @@
-body
-
-{
-    font-family: 'Lobster', sans-serif;
+body {
+    font-family: 'Kirang Haerang', cursive;
     text-align: center;
-    display: grid;
-    grid-template-rows: auto auto auto auto auto auto auto;
-    height: auto;
-
-
-}
-
-body
-
-{
-  margin: 0;
-  height: 100vh;
-  cursor: url("../images/logo/logo1.png"), auto;
-
-}
-img {
-  border-radius: 50%;
-}
-.welcome {
-    grid-row-start: 1;
-    grid-row-end: 2;
-    background: url(../images/backgrounds/pizza2.jpg);
+    background: url(../images/pizza5.jpg);
     background-size: cover;
-    color: white;
-    left: 0;
-    line-height: 30px;
-    margin-top: 0px;
-    padding-top: 5%;
+
+}
+
+.nav {
     width: 100%;
-    font-size: 30px;
+    height: 15%;
 }
 
-.welcome h3 {
-    padding-top: 15px;
-    font-size: 50px;
+.logo {
+    margin-right: 30%;
+
 }
 
-.welcome p {
-    padding-top: 0px;
+.nav img {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 5px;
 }
 
-#mouse-click{
-  padding-top : 22px;
-  margin-top: 2%;
-  padding-bottom: 30px;
-  /* animation-iteration-count: infinite; */
-}
-#mouse-click {
-  animation: bounce 4s infinite;
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-55px);
-  }
-  60% {
-    transform: translateY(-45px);
-  }
+.nav ul li {
+    float: right;
 }
 
-.about {
-    grid-row-start: 2;
-    grid-row-end: 3;
-    background-color: white;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    text-align: center;
+.nav ul li a {
+    display: block;
     color: black;
-    font-size: 30px;
-}
-
-
-.toggle {
-    grid-row-start: 4;
-    grid-row-end: 5;
-    padding-top: 3%;
-    font-size: 26px;
-}
-
-.text {
-    display: none;
-}
-
-.portfolio h2 {
-    padding-top: 6%;
-    padding-bottom: 1%;
-}
-
-.folio {
-    padding-top: 1%;
-    margin-right: 5%;
-    margin-bottom: 5%;
-}
-
-.images {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.overlay {
-    position: absolute;
-    height: 80%;
-    width: 80%;
-    top: 10%;
-    left: 10%;
-    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
     font-size: larger;
-    font-weight: 900;
-    display: none;
-    background: rgba(255, 255, 255, 0.2);
-    color: black;
-    border: 2px solid white;
+    font-weight: 700;
 }
 
-.contact {
-    background: url(../images/backgrounds/pizza5.jpg);
-    background-size: cover;
-    padding-top: 3%;
+.nav ul li a:hover {
     color: white;
 }
 
-input[type="text"],
-input[type="email"],
-input[type="submit"],
-#message {
-    background-color: transparent;
-    margin-bottom: 20px;
+.main {
+    color: white;
 }
 
-input::-webkit-input-placeholder,
-textarea::-webkit-input-placeholder {
+.view-one {
+    padding-top: 120px;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    padding-bottom: 0px;
+}
+
+.button {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: none;
     color: black;
-}
-#mc_embed_signup
-{
-  background:#fff;
-  clear:left;
-  font font-family:'Lobster', sans-serif;
-  font-size: 20px
+    padding: 15px 32px;
+    padding-right: 30px;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
+.button:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+}
 
-.footer {
+.view-two,
+.view-three,
+.view-four {
+    display: none;
+}
+
+input[type=checkbox],
+input[type=text],
+input[type=tel],
+input[type=number],
+select {
+    width: 100%;
+    padding: 8px 12px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.checkbox {
+    display: inline-block;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+.form {
+    border-radius: 15px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.order-total {
+    display: none;
+}
+
+.confirm-order {
+    border: 6px solid #948473;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.table-buttons {
     padding-top: 3%;
-    padding-right: 20px;
-}
-
-.foot-text h5 {
-    padding-top: 1%;
-    padding-bottom: 0;
-    color: black;
+    padding-bottom: 3%;
 }

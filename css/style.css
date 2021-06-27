@@ -61,19 +61,19 @@ body
 }
 
 .view-one {
-    padding-top: 120px;
+    padding-top: 0px;
 }
 
 h2 {
     font-family: 'Lobster', cursive;
-    font-size: 60px;
-    padding-bottom: 0px;
+    font-size: 75px;
+    padding-bottom: -100px;
 }
 
 .button {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(250, 140, 0, 0.8);
     border: none;
-    color: black;
+    color: white;
     padding: 15px 32px;
     padding-right: 30px;
     margin-right: 1%;
@@ -85,7 +85,7 @@ h2 {
 }
 
 .button:hover {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(127, 255, 212, 0.8);
 }
 
 .view-two,
@@ -117,7 +117,7 @@ select {
 .form {
     border-radius: 15px;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(250, 140, 0, 0.5);
 }
 
 .order-total {
@@ -127,7 +127,7 @@ select {
 .confirm-order {
     border: 6px solid #948473;
     border-radius: 15px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(250, 140, 0, 0.5);
     width: 100%;
     padding: 20px;
     text-align: center;

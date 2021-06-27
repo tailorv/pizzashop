@@ -16,7 +16,7 @@ A a customer, I would like to;
 8. See a checkout button that when clicked shows the total amount charged for the orders.
 
 
-![USER INTERFACE](images/homepage.png) (USER INTERFACE)
+![USER INTERFACE](images/home.png) (USER INTERFACE)
 
 
 #### **PROJECT OBJECTIVES**

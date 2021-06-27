@@ -17,6 +17,8 @@ A a customer, I would like to;
 
 
 ![USER INTERFACE](images/home.png) (USER INTERFACE)
+![USER INTERFACE](images/home2.png) (USER INTERFACE)
+![USER INTERFACE](images/home3.png) (USER INTERFACE)
 
 
 #### **PROJECT OBJECTIVES**

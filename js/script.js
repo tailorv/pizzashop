@@ -104,7 +104,7 @@ $(document).ready(function() {
                 alert("Please fill in the delivery form. All fields are required")
             } else {
                 alert("Dear " + clientName + " your order will be delivered to " + clientLocation + " within the hour! Your order total is: " +
-                    grandTotal + " Our rider will call you on arrival");
+                    grandTotal + " Our delivery manager will call you on arrival");
             }
         })
     })

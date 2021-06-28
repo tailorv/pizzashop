@@ -44,7 +44,7 @@ To view the webpage, open the Github Pages link provided below on the README.
 
 Here is a systematic setup of how to template the Website
 * Step 1 : Clone this repository **`git clone https://github.com/tailorv/pizzashop.git`**,or downloading a ZIP file of the code.
-* Step 2 : The repository, if downloaded as a .zip file will need to be extracted o your preferred location and opened
+* Step 2 : The repository, if downloaded as a .zip file will need to be extracted to your preferred location and opened
 * Step 3 : Open the index.html file to view the webpage on your preferred browser
 
 ## Github Pages link
